@@ -1,5 +1,5 @@
 # Food Truck Finder
-Steps to Exectue:
+Steps to Execute:
 1. Extract the files.
 2. Make sure node and npm are installed on the system.
 3. `cd` to the directory and run `npm install`.
