@@ -1,0 +1,13 @@
+{
+  "name": "food-truck-finder",
+  "version": "1.0.0",
+  "description": "Console Application to show local food truck information",
+  "main": "FoodTruckFinder.js",
+  "scripts": {
+    "show-open-food-trucks": "node FoodTruckFinder.js"
+  },
+  "dependencies": {
+    "console.table": "0.10.0",
+    "request": "2.87.0"
+  }
+}
